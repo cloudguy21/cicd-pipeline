@@ -1,4 +1,4 @@
-name: ci.pipeline
+name: ci.yml
 on:
   push:
     branches: [ "main" ]
